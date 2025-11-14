@@ -66,7 +66,8 @@ Always learning, always building, and excited to contribute to meaningful projec
 # 🚀 Featured Projects
 
 ## 🛒 Full Stack Ecommerce Platform
-
+[![Ecommerce Platform](https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp)](https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products)
+**Live Demo:** [Ecommerce Platform](https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products)
 **Technologies:**
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
@@ -91,11 +92,13 @@ A **modern, scalable ecommerce system** with seamless shopping experience.
 * Smooth UI/UX with Framer Motion
 * Fully responsive
 
-🔗 **Live:** [Ecommerce Platform](https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products)
+
 
 ---
 
 ## 🍔 Yalla-Eat — Food Ordering Platform
+[![Yalla-Eat](https://yalla-eat.vercel.app/logo.webp)](https://yalla-eat.vercel.app/)  
+**Live Demo:** [Yalla-Eat](https://yalla-eat.vercel.app/)
 
 **Technologies:**
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
@@ -121,16 +124,7 @@ Modern food-ordering app with **real-time tracking** and admin tools.
 * Export orders to Excel (xlsx)
 * Form validation (Formik, Yup & React Hook Form)
 * Fully responsive
+  
 
-🔗 **Live:** [Yalla-Eat](https://yalla-eat.vercel.app/)
-
----
-
-## 🔥 Currently Working On
-
-* Full-stack apps using **React, Firebase & Strapi**
-* Improving backend architecture and API design
-* Exploring advanced React patterns
-* Enhancing UI architecture and performance
 
 
