@@ -66,8 +66,18 @@ Always learning, always building, and excited to contribute to meaningful projec
 # 🚀 Featured Projects
 
 ## 🛒 Full Stack Ecommerce Platform
-[![Ecommerce Platform](https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp)](https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products)
-**Live Demo:** [Ecommerce Platform](https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products)
+<table>
+  <tr>
+    <td width="100">
+      <img src="https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp" alt="Ecommerce" width="80"/>
+    </td>
+    <td>
+      <strong>Full Stack Ecommerce Platform</strong><br>
+      <a href="https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products">🔗 Live Demo</a>
+    </td>
+  </tr>
+</table>
+
 **Technologies:**
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
