@@ -66,10 +66,13 @@ Always learning, always building, and excited to contribute to meaningful projec
 ## 🚀 Featured Projects
 
 <!-- Ecommerce Project -->
-<div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-  <img src="https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp" alt="Ecommerce" width="60" style="margin-right: 15px;"/>
-    <span style="font-size: 1.2em; font-weight: bold;">Full Stack Ecommerce Platform</span>
-  <div>
+## 🛒 Full Stack Ecommerce Platform  
+
+
+A complete ecommerce system built with a scalable and modern architecture.  
+
+
+Designed to provide a seamless shopping experience with secure payments and real-time data.
 
 
 
@@ -103,10 +106,11 @@ A **modern, scalable ecommerce system** with seamless shopping experience.
 ---
 
 <!-- Yalla-Eat Project -->
-<div style="display: flex; align-items: center; margin-bottom: 2em;">
-  <img src="https://yalla-eat.vercel.app/logo.webp" alt="Yalla-Eat" width="40" style="margin-right: 15px;"/>
-  <span style="font-size: 1.2em; font-weight: bold;">Yalla-Eat — Food Ordering Platform</span>
-</div>
+
+## 🍔 Yalla-Eat — Food Ordering Platform  
+
+
+A modern food-ordering app with real-time tracking and admin tools for efficient restaurant workflow.
 
 
 **Technologies:**
