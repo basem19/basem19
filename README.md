@@ -66,10 +66,10 @@ Always learning, always building, and excited to contribute to meaningful projec
 ## 🚀 Featured Projects
 
 <!-- Ecommerce Project -->
-<div style="display: flex; align-items: center; margin-bottom: 2em;">
-  <img src="https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp" alt="Ecommerce" width="40" style="margin-right: 15px;"/>
-  <span style="font-size: 1.2em; font-weight: bold;">Full Stack Ecommerce Platform</span>
-</div>
+<div style="display: flex; align-items: center; margin-bottom: 0.5em;">
+  <img src="https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp" alt="Ecommerce" width="60" style="margin-right: 15px;"/>
+    <span style="font-size: 1.2em; font-weight: bold;">Full Stack Ecommerce Platform</span>
+  <div>
 
 
 
