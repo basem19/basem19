@@ -63,20 +63,15 @@ Always learning, always building, and excited to contribute to meaningful projec
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛒 Full Stack Ecommerce Platform
-<table>
-  <tr>
-    <td width="100">
-      <img src="https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp" alt="Ecommerce" width="80"/>
-    </td>
-    <td>
-      <strong>Full Stack Ecommerce Platform</strong><br>
-      <a href="https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
+<!-- Ecommerce Project -->
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://res.cloudinary.com/dxrceinxi/image/upload/v1744306082/gmserblxtsaq82evmyla.webp" alt="Ecommerce" width="60" style="margin-right: 15px;"/>
+  <span style="font-size: 1.2em; font-weight: bold;">Full Stack Ecommerce Platform</span>
+</div>
+
+
 
 **Technologies:**
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
@@ -101,14 +96,18 @@ A **modern, scalable ecommerce system** with seamless shopping experience.
 * Full Admin Dashboard (products, orders, users)
 * Smooth UI/UX with Framer Motion
 * Fully responsive
-
+  
+<a href="https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products">🔗 Live Demo</a>
 
 
 ---
 
-## 🍔 Yalla-Eat — Food Ordering Platform
-[![Yalla-Eat](https://yalla-eat.vercel.app/logo.webp)](https://yalla-eat.vercel.app/)  
-**Live Demo:** [Yalla-Eat](https://yalla-eat.vercel.app/)
+<!-- Yalla-Eat Project -->
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://yalla-eat.vercel.app/logo.webp" alt="Yalla-Eat" width="60" style="margin-right: 15px;"/>
+  <span style="font-size: 1.2em; font-weight: bold;">Yalla-Eat — Food Ordering Platform</span>
+</div>
+
 
 **Technologies:**
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
@@ -134,6 +133,8 @@ Modern food-ordering app with **real-time tracking** and admin tools.
 * Export orders to Excel (xlsx)
 * Form validation (Formik, Yup & React Hook Form)
 * Fully responsive
+
+<a href="https://yalla-eat.vercel.app/">🔗 Live Demo</a>
   
 
 
