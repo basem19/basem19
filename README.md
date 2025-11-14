@@ -2,15 +2,17 @@
 I’m a results-driven Front-End Developer with hands-on experience in building scalable, responsive, and user-centric applications.<br>
 My main focus is creating seamless digital experiences using React, TypeScript, Redux Toolkit, Firebase, Tailwind CSS, and modern UI frameworks.<br><br>
 I’ve built full-featured applications like e-commerce systems, dashboards, authentication flows, order management tools, and real-time services using Firebase and external APIs.<br>
-I value good design, performance optimization, and writing code that is clean, maintainable, and easy to scale.<br><br>
-I’m constantly improving my skills and excited to contribute to meaningful projects, collaborate with teams, and build high-quality products that solve real problems.
+I value clean code, performance optimization, and building interfaces that are easy to maintain and scale.<br><br>
+Always learning, always building, and excited to contribute to meaningful projects.
 
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/basem.s3ud/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassemsaeedsaad) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basemsaeed3920@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/basem.s3ud/) 
 
+---
 
 # 💻 Tech Stack:
 
@@ -43,6 +45,7 @@ I’m constantly improving my skills and excited to contribute to meaningful pro
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![EmailJS](https://img.shields.io/badge/EmailJS-FF4B00?style=flat)
+![QZ Tray](https://img.shields.io/badge/QZ%20Tray-333333?style=flat)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -56,14 +59,79 @@ I’m constantly improving my skills and excited to contribute to meaningful pro
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=white)
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=basem19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=basem19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=basem19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🚀 Featured Projects
 
+## 🛒 Full Stack Ecommerce Platform  
+A complete ecommerce system built with a scalable and modern architecture.  
+Designed to provide a seamless shopping experience with secure payments and real-time data.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+### ⭐ Key Features:
+- Dynamic products with filtering by category, brand, price, subcategories  
+- Secure user authentication (Firebase Auth)  
+- Realtime products, cart & orders via Firestore  
+- Stripe secure payment integration  
+- Image upload & optimization via Cloudinary  
+- Email confirmation via EmailJS  
+- Full Admin Dashboard (products, orders, users)  
+- Smooth UI/UX with Framer Motion  
+- Fully responsive
+
+🔗 **Live:**  
+https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products  
+
+---
+
+## 🍔 Yalla-Eat — Food Ordering Platform  
+A modern food-ordering app with real-time tracking and admin tools for efficient restaurant workflow.
+
+### ⭐ Key Features:
+- React + TS + Tailwind CSS + ShadCN  
+- State management with Redux Toolkit  
+- Firebase Auth + Firestore  
+- Sales analytics dashboard (Recharts)  
+- Product / User / Delivery management  
+- Offers & discount tools  
+- Real-time order tracking  
+- QZ Tray for automatic receipt printing  
+- Export to Excel (xlsx)  
+- Formik + Yup + RHF validations  
+- Fully responsive
+
+🔗 **Live:**  
+https://yalla-eat.vercel.app/
+
+---
+
+## 🔥 What I'm Currently Working On
+- Building full-stack apps using React, Firebase & Strapi  
+- Improving backend and API design  
+- Exploring advanced React patterns  
+- Enhancing UI architecture and performance  
+
+---
+
+## 🎯 Goals for 2025
+- Build and deploy a complete SaaS product  
+- Contribute to open-source projects  
+- Master backend systems & databases  
+- Improve UI/UX design skills  
+
+---
+
+## 🌱 Fun Facts About Me
+- I enjoy turning ideas into real digital products  
+- I solve bugs faster than I create new features 😅  
+- I love clean UI and minimal design  
+- Always learning something new  
+
+---
+
+## 💰 Support Me
+If you find my work helpful, consider supporting me ☕  
+https://www.buymeacoffee.com/basemsaeed
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
