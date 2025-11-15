@@ -77,7 +77,6 @@ A complete ecommerce system built with a scalable and modern architecture.
 Designed to provide a seamless shopping experience with secure payments and real-time data.
 
 
-
 **Technologies:**
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
@@ -93,15 +92,15 @@ A **modern, scalable ecommerce system** with seamless shopping experience.
 
 **Key Features:**
 
-* Dynamic products with filtering by category, brand, price, subcategories
-* Secure authentication (Firebase Auth)
-* Realtime updates for products, cart & orders
-* Stripe payment integration
-* Image upload & optimization (Cloudinary)
-* Email confirmation (EmailJS)
-* Full Admin Dashboard (products, orders, users)
-* Smooth UI/UX with Framer Motion
-* Fully responsive
+* Implemented dynamic product browsing with filters by category, subcategory, brand, and price.
+* Used Firebase for user authentication and real-time data handling.
+* Integrated Cloudinary for image upload and optimized asset management.
+* Enabled secure online payments using Stripe.
+* Sent automated order confirmation emails via EmailJS.
+* Built an admin dashboard for managing products and orders.
+* Streamlined global state management efficiently using Redux/Redux Toolkit across complex
+features.
+* Enhanced UI/UX with Framer Motion animatio
   
 <a href="https://ecommerce-basem1-basems-projects-25955efe.vercel.app/products">🔗 Live Demo</a>
 
@@ -130,16 +129,20 @@ Modern food-ordering app with **real-time tracking** and admin tools.
 
 **Key Features:**
 
-* State management with Redux Toolkit
-* Firebase Auth & Firestore for real-time data
-* Sales analytics dashboard (Recharts)
-* Product / User / Delivery management
-* Offers & discount tools
-* Real-time order tracking
-* Automatic receipt printing (QZ Tray)
-* Export orders to Excel (xlsx)
-* Form validation (Formik, Yup & React Hook Form)
-* Fully responsive
+* Built a responsive, user-friendly food ordering platform using React and TypeScript, enhancing
+customer experience across devices.
+* Implemented state management with Redux Toolkit for efficient data flow and real-time
+updates.
+* Utilized Firebase Authentication and Firestore for secure login, data storage, and scalable
+backend services.
+* Designed a modern, accessible interface with Shadcn UI and Tailwind CSS, ensuring cross-
+browser and mobile compatibility.
+* Developed an admin dashboard with sales analytics, product/user/delivery personnel
+management, and offers/discounts tools.
+* Engineered a seamless order management system, integrating Excel (xlsx) export and QZ Tray
+for automated receipt printing and improved operational efficiency.
+* Enabled real-time order status tracking across multiple stages with automated delivery
+personnel assignment for optimized logistics.
 
 <a href="https://yalla-eat.vercel.app/">🔗 Live Demo</a>
   
