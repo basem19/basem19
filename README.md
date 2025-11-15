@@ -21,6 +21,7 @@ Always learning, always building, and excited to contribute to meaningful projec
 # 💻 Tech Stack
 
 **Frontend Core:**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
@@ -37,6 +38,7 @@ Always learning, always building, and excited to contribute to meaningful projec
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat\&logo=framer\&logoColor=white)
 
 **UI Frameworks:**
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat\&logo=tailwind-css\&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat\&logo=chakraui\&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-%23111.svg?style=flat)
@@ -52,6 +54,7 @@ Always learning, always building, and excited to contribute to meaningful projec
 ![QZ Tray](https://img.shields.io/badge/QZ%20Tray-333333?style=flat)
 
 **Tools & Deployment:**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat\&logo=npm\&logoColor=white)
@@ -74,6 +77,7 @@ Designed to provide a seamless shopping experience with secure payments and real
 
 
 **Technologies:**
+
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat\&logo=firebase)
@@ -110,6 +114,7 @@ A modern food-ordering app with real-time tracking and admin tools for efficient
 
 
 **Technologies:**
+
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat\&logo=react\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat\&logo=redux\&logoColor=white)
