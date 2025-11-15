@@ -14,7 +14,6 @@ Always learning, always building, and excited to contribute to meaningful projec
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/basem.s3ud/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bassemsaeedsaad)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:basemsaeed3920@gmail.com)
 
 ---
 
@@ -147,5 +146,16 @@ personnel assignment for optimized logistics.
 <a href="https://yalla-eat.vercel.app/">🔗 Live Demo</a>
   
 
+
+---
+
+## 💬 Let's Connect!
+
+Currently **open to opportunities** in Frontend Development roles.
+
+📧 Email: basemsaeed3920@gmail.com  
+💼 LinkedIn: [Let's talk!](https://www.linkedin.com/in/bassemsaeedsaad)  
+
+⭐ If you find my projects helpful, feel free to star them!
 
 
