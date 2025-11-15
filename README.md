@@ -28,6 +28,7 @@ Always learning, always building, and excited to contribute to meaningful projec
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
 
 **Frontend Libraries & Tools:**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat\&logo=redux\&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat\&logo=react-router\&logoColor=white)
@@ -46,6 +47,7 @@ Always learning, always building, and excited to contribute to meaningful projec
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat\&logo=radix-ui\&logoColor=white)
 
 **Backend & Services:**
+
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat\&logo=firebase)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat\&logo=strapi\&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
