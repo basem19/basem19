@@ -138,7 +138,7 @@ personnel assignment for optimized logistics.
 
 <a href="https://yalla-eat.vercel.app/">🔗 Live Demo</a>
 
-[Link to Drive for Dashboard Screenshots](https://drive.google.com/drive/folders/1-w1gr_3zkkQCdtr6WvRUhu_O1DGaVwJF?usp=sharing)  
+🔗 [Link to Drive for Dashboard Screenshots](https://drive.google.com/drive/folders/1-w1gr_3zkkQCdtr6WvRUhu_O1DGaVwJF?usp=sharing)  
 Check out the screenshots to get a feel of the user interface and design.
 
 
